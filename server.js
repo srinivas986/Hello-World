@@ -1,1 +1,3 @@
-console.log(`Hello World ! .`);
+var a = "Hello";
+var b = "world";
+console.log(`${a} ${b}`);
